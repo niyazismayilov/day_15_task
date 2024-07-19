@@ -1,16 +1,16 @@
-# day_3_tapsiriq
+# Day 15 task
 
-Day 3 duzgun implementasiya
+Day 11 üçün task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tapşırıqlar :
 
-A few resources to get you started if this is your first Flutter project:
+1. SharedPreferences istifadə edərək Yazı tipini yadda saxlayın.
+2. Araşdırma: Həftənin gününə uyğun olaraq hər hansı bir quote versin.
+3. Çətin task: UI -da yazılan yazını SharedPreferences-də atarsın əgər varsa true
+sözünü ekrana versin. Hint: key =“text,value=“Salam bura Bakıdır”
+bura sözünü yazanda Axtar kliklədikdə true versin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu reponu download etməzdən əvvəl mütləq özünüz cəhd edin 
+sonra burdakı düzgün cavablara baxın.
